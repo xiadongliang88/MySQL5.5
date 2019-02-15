@@ -1,4 +1,5 @@
 // 启动mysql
+
 net start mysql
 
 // Á¬½ÓÊý¾Ý¿â
