@@ -27,5 +27,7 @@ sex CHAR(1),
 birth DATE,  
 death DATE);  
 
-// 表详情
+// 表详情  
 describe pet;
+
+
