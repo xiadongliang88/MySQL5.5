@@ -1,11 +1,12 @@
-// 启动mysql
+# MySQL5.5  
 
-net start mysql
+// 启动mysql  
+net start mysql  
 
-// Á¬½ÓÊý¾Ý¿â
+// 连接数据库
 mysql -hlocalhost -uroot -p
 
-show databases;
+show databases; 
 
 create database test;
 
