@@ -1,7 +1,7 @@
-// 启动mysql
+// 鍚姩mysql
 net start mysql
 
-// 连接数据库
+// 脕卢陆脫脢媒戮脻驴芒
 mysql -hlocalhost -uroot -p
 
 show databases;
